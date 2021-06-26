@@ -12,8 +12,12 @@
 <a href="#redes"> <img height=30px src="https://i.ibb.co/q1fdrR9/redes.png"/></a>
 </p>
 
+<a id="yo"> </a>
+<br>
+
+
 -----------------------------------------------------------
-<h2 id="yo" font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
+<h2  font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
 <a href="#yo"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
@@ -36,6 +40,9 @@ ___Mis mayores Debilidades:___ <br>
 - Soy una persona algo introvertida y trabajo para superarme.
 - Al no parar si no termino algo, a veces se me hace complicado el gestionar mis tiempos.
 
+
+<a id="repositorios"> </a>
+<br>
 
 
 -----------------------------------------------------------
@@ -71,9 +78,12 @@ Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord.
 Lenguaje: JavaScript & Node.js
 
 ```
+<a id="capacitaciones"> </a>
+<br>
+
 
 -----------------------------------------------------------
-<h2 id="capacitaciones" font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
+<h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
 <a href="#capacitaciones"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
