@@ -148,8 +148,9 @@ Campo: Developer
 ¡Gracias por bajar hasta acá!
 </p>
  
+<a id="redes"></a> 
 -----------------------------------------------------------
-<a id="redes"></a>
+
 
 <h2  href="#redes" align="center"> Mis Redes </h2>
  
