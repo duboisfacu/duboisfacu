@@ -160,7 +160,7 @@ Campo: Developer
 </p>
  
 
-<a href="https://i.ibb.co/CKd1NtG/mapache.png" onclick="return ! window.open(this.href);">Open in a new window</a>
+
 
 
 -----------------------------------------------------------
