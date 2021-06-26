@@ -1,13 +1,13 @@
 <h1 align="center">Facundo Nahuel Dubois</h1>
 
 <p align="center">
-<img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/>
+<a href="#"> <img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/></a>
 </p>
 
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
-<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
+<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -30,10 +30,14 @@ ___Mis mayores Debilidades:___ <br>
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">📁 Repositorios: 📁</h2>
 <p align="center">
-<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
+<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
+
+
 -----------------------------------------------------------
+
+
 <img align="left" height=80px src="https://i.ibb.co/jrr8vDY/Asistencias.png"/>
 
 ```
@@ -66,7 +70,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
-<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
+<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -129,7 +133,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
 
 <p align="center">
-<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
+<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -145,7 +149,7 @@ Campo: Developer
 -----------------------------------------------------------
 
 <p align="center">
-<img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/>
+<a href="#"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
 </p>
