@@ -152,9 +152,8 @@ Campo: Developer
 ```
 
 -----------------------------------------------------------
-
 <p align="center">
-<a id="mapache" href="#mapache"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
+<a id="mapache" href="https://i.ibb.co/CKd1NtG/mapache.png"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
 <a id="redes"></a> 
