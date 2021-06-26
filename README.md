@@ -4,6 +4,8 @@
 <a href="#"> <img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/></a>
 </p>
 
+
+
 -----------------------------------------------------------
 <h2 id="yo" font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
@@ -27,17 +29,16 @@ ___Mis mayores Fortalezas:___ <br>
 ___Mis mayores Debilidades:___ <br>
 - Soy una persona algo introvertida y trabajo para superarme.
 - Al no parar si no termino algo, a veces se me hace complicado el gestionar mis tiempos.
+
+
+
 -----------------------------------------------------------
-<h2 font-size="75px" align="center">📁 Repositorios: 📁</h2>
+<h2 id="repositorios" font-size="75px" align="center">📁 Repositorios: 📁</h2>
 <p align="center">
-<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#repositorios"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
-
-
 -----------------------------------------------------------
-
-
 <img align="left" height=80px src="https://i.ibb.co/jrr8vDY/Asistencias.png"/>
 
 ```
@@ -65,16 +66,14 @@ Lenguaje: JavaScript & Node.js
 
 ```
 
-
 -----------------------------------------------------------
-<h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
+<h2 id="capacitaciones" font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
-<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#capacitaciones"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
 -----------------------------------------------------------
-
 <img align="left" height=80px src="https://i.ibb.co/ZS3LRB5/polo.png"/>
 
 ```
@@ -118,22 +117,11 @@ Lenguaje: JavaScript & Node.js
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 -----------------------------------------------------------
-<h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
+<h2 id="trabajos" font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
 
 <p align="center">
-<a href="#"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#trabajos"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -149,7 +137,7 @@ Campo: Developer
 -----------------------------------------------------------
 
 <p align="center">
-<a href="#"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
+<a id="mapache" href="#mapache"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
 </p>
