@@ -4,7 +4,13 @@
 <a href="#"> <img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/></a>
 </p>
 
-
+<p align="center">
+<a href="#yo"> <img height=30px src="https://i.ibb.co/SXyqcmf/about.png"/></a>
+<a href="#repositorios"> <img height=30px src="https://i.ibb.co/TMy5RqZ/repositorios.png"/></a>
+<a href="#capacitaciones"> <img height=30px src="https://i.ibb.co/DCQGvJC/capacitaciones.png"/></a>
+<a href="#trabajos"> <img height=30px src="https://i.ibb.co/DVZ3hCV/experiencia.png"/></a>
+<a href="#redes"> <img height=30px src="https://i.ibb.co/q1fdrR9/redes.png"/></a>
+</p>
 
 -----------------------------------------------------------
 <h2 id="yo" font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
@@ -148,7 +154,7 @@ Campo: Developer
 
 <h2 align="center"> Mis Redes </h2>
 
-<p  align="center">
+<p id="redes" align="center">
 <a href="https://www.linkedin.com/in/facundo-n-dubois-08b251184/" target="_blank">
   <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
 </a>
