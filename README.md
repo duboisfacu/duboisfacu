@@ -121,10 +121,10 @@ Lenguaje: JavaScript & Node.js
 ✨Python Data Structures
 ```
 
-
+<a id="trabajos"> </a>
 
 -----------------------------------------------------------
-<h2 id="trabajos" font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
+<h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
 
 <p align="center">
 <a href="#trabajos"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
@@ -146,11 +146,11 @@ Campo: Developer
 <a id="mapache" href="#mapache"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
-
+<a id="redes"></a> 
 </p>
  
 
- <a id="redes"></a> 
+
 
 -----------------------------------------------------------
 
