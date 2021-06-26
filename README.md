@@ -11,7 +11,6 @@
 </p>
 
 -----------------------------------------------------------
-
 Es complicado presentarme, así que para descontracturar voy a ir a lo convencional: <br>
 
 ___Estudios:___ oficialmente tengo el título de técnico superior en desarrollo de software desde inicios del 2021. <br>
@@ -144,10 +143,19 @@ Campo: Developer
 ```
 
 -----------------------------------------------------------
+
+<p align="center">
+<img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/>
 <br>
+¡Gracias por bajar hasta acá!
+</p>
+ 
+-----------------------------------------------------------
+
 <center>
 
 <h2 align="center"> Mis Redes </h2>
+
 <p  align="center">
 <a href="https://www.linkedin.com/in/facundo-n-dubois-08b251184/" target="_blank">
   <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
