@@ -151,7 +151,7 @@ Campo: Developer
 -----------------------------------------------------------
 
 
-<h2 id="redes" href="#redes" align="center"> Mis Redes </h2>
+<a id="redes"><h2  href="#redes" align="center"> Mis Redes </h2></a>
  
  -----------------------------------------------------------
  
