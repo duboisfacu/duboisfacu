@@ -156,7 +156,7 @@ Campo: Developer
  -----------------------------------------------------------
  
 <p align="center">
-<a> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a  href="#redes"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 <center>
 <p id="redes" align="center">
