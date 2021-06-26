@@ -122,6 +122,7 @@ Lenguaje: JavaScript & Node.js
 ```
 
 <a id="trabajos"> </a>
+<br>
 
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
