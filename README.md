@@ -159,7 +159,8 @@ Campo: Developer
 <a id="redes"></a> 
 </p>
  
-<a href="https://i.ibb.co/CKd1NtG/mapache.png" target="_blank">example</a>
+
+<a href="https://i.ibb.co/CKd1NtG/mapache.png" onclick="return ! window.open(this.href);">Open in a new window</a>
 
 
 -----------------------------------------------------------
