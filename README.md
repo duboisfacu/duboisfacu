@@ -5,7 +5,7 @@
 </p>
 
 -----------------------------------------------------------
-<h2 class="#yo" font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
+<h2 id="yo" font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
 <a href="#yo"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
