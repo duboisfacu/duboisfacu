@@ -146,9 +146,10 @@ Campo: Developer
 <a id="mapache" href="#mapache"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
+ <a id="redes"></a> 
 </p>
  
-<a id="redes"></a> 
+
 
 
 -----------------------------------------------------------
