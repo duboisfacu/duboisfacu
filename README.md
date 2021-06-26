@@ -137,10 +137,10 @@ Lenguaje: JavaScript & Node.js
 <img align="left" height=80px src="https://i.ibb.co/zfph4WD/mass.png"/>
 
 ```
-MASSVIAJEROS:
+MASSVIAJEROS: (Actual)
 Empresa: Massviajeros 
 Campo: Developer 
-Lenguajes Utilizados: Reactr
+
 ```
 
 -----------------------------------------------------------
