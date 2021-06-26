@@ -1,7 +1,7 @@
 <h1 align="center">Facundo Nahuel Dubois</h1>
 
 <p align="center">
-<img height=150px src="https://i.ibb.co/QcmHvrG/Mapache.png"/>
+<img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/>
 </p>
 
 -----------------------------------------------------------
