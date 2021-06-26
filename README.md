@@ -7,7 +7,7 @@
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
-<img  height=30px src="https://i.ibb.co/NpHg9f7/flecha.png"/>
+<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
 </p>
 
 -----------------------------------------------------------
@@ -30,7 +30,7 @@ ___Mis mayores Debilidades:___ <br>
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">📁 Repositorios: 📁</h2>
 <p align="center">
-<img  height=30px src="https://i.ibb.co/NpHg9f7/flecha.png"/>
+<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
 </p>
 
 -----------------------------------------------------------
@@ -66,7 +66,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
-<img  height=30px src="https://i.ibb.co/NpHg9f7/flecha.png"/>
+<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
 </p>
 
 -----------------------------------------------------------
@@ -129,7 +129,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
 
 <p align="center">
-<img  height=30px src="https://i.ibb.co/NpHg9f7/flecha.png"/>
+<img  height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/>
 </p>
 
 -----------------------------------------------------------
