@@ -152,12 +152,12 @@ Campo: Developer
 
 
 
-<h2 align="center"> Mis Redes </h2>
+<h2  href="#redes" align="center"> Mis Redes </h2>
  
  -----------------------------------------------------------
  
 <p align="center">
-<a href="#redes"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
 </p>
 <center>
 <p id="redes" align="center">
