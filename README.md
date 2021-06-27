@@ -19,7 +19,7 @@
 -----------------------------------------------------------
 <h2  font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 <p align="center">
-<a href="#yo"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#yo"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -48,7 +48,7 @@ ___Mis mayores Debilidades:___ <br>
 -----------------------------------------------------------
 <h2 id="repositorios" font-size="75px" align="center">📁 Repositorios: 📁</h2>
 <p align="center">
-<a href="#repositorios"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#repositorios"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -86,7 +86,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
-<a href="#capacitaciones"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#capacitaciones"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -138,7 +138,7 @@ Lenguaje: JavaScript & Node.js
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
 
 <p align="center">
-<a href="#trabajos"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a href="#trabajos"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
 
 -----------------------------------------------------------
@@ -171,7 +171,7 @@ Campo: Developer
  -----------------------------------------------------------
  
 <p align="center">
-<a  href="#redes"> <img height=30px src="https://i.ibb.co/GtH9Xb8/letras.png"/></a>
+<a  href="#redes"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
 <center>
 <p id="redes" align="center">
