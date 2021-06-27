@@ -93,15 +93,23 @@ Lenguaje: JavaScript & Node.js
 <img align="left" height=80px src="README.resources/i_polo.png"/>
 
 ```
-🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso)
+🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 17/40 clases)
 ✨Introducción a la Programación (Python) 
+ㅤ
+```
+
+<img align="left" height=80px src="README.resources/i_incluit.png"/>
+
+```
+🌟INCLUIT (en proceso 1/12 clases)
+✨Testing de software 
 ㅤ
 ```
 
 <img align="left" height=80px src="README.resources/i_mass.png"/>
 
 ```
-🌟MASSVIAJEROS (en proceso)
+🌟MASSVIAJEROS (en proceso 2/3 meses)
 ✨Desarrollador Full Stack 
 ㅤ
 ```
