@@ -153,7 +153,7 @@ Campo: Developer
 
 -----------------------------------------------------------
 <p align="center">
-<a id="mapache" href="![image](https://user-images.githubusercontent.com/66006741/123548950-5bea7100-d73d-11eb-8275-2b3dfb192c94.png)"> <img height=300px src="README.resources/g_raccoon.gif"/></a>
+<a id="mapache" href="https://user-images.githubusercontent.com/66006741/123548950-5bea7100-d73d-11eb-8275-2b3dfb192c94.png"> <img height=300px src="README.resources/g_raccoon.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
 <a id="redes"></a> 
