@@ -1,15 +1,15 @@
 <h1 align="center">Facundo Nahuel Dubois</h1>
 
 <p align="center">
-<a href="#"> <img height=150px src="https://i.ibb.co/dPX46tQ/Mapache2.png"/></a>
+<a href="#"> <img height=150px src="README.resources/t_me.png"/></a>
 </p>
 
 <p align="center">
-<a href="#yo"> <img height=30px src="https://i.ibb.co/SXyqcmf/about.png"/></a>
-<a href="#repositorios"> <img height=30px src="https://i.ibb.co/TMy5RqZ/repositorios.png"/></a>
-<a href="#capacitaciones"> <img height=30px src="https://i.ibb.co/DCQGvJC/capacitaciones.png"/></a>
-<a href="#trabajos"> <img height=30px src="https://i.ibb.co/DVZ3hCV/experiencia.png"/></a>
-<a href="#redes"> <img height=30px src="https://i.ibb.co/q1fdrR9/redes.png"/></a>
+<a href="#yo"> <img height=30px src="README.resources/h_about.png"/></a>
+<a href="#repositorios"> <img height=30px src="README.resources/h_repositorios.png"/></a>
+<a href="#capacitaciones"> <img height=30px src="README.resources/h_capacitaciones.png"/></a>
+<a href="#trabajos"> <img height=30px src="README.resources/h_experiencia.png"/></a>
+<a href="#redes"> <img height=30px src="README.resources/h_redes.png"/></a>
 </p>
 
 <a id="yo"> </a>
@@ -176,7 +176,7 @@ Campo: Developer
 <center>
 <p id="redes" align="center">
 <a href="https://www.linkedin.com/in/duboisfacu/" target="_blank">
-  <img src="README.resources/7VZQrXx/lkn.png" height=50px>
+  <img src="README.resources/lkn.png" height=50px>
 </a>
 <a href="https://www.instagram.com/duboisfacu/" target="_blank">
   <img src="README.resources/ig.png" height=50px>
@@ -189,5 +189,6 @@ Campo: Developer
 </a>
   </p>
 </center>
+
 
  -----------------------------------------------------------
