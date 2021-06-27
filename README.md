@@ -176,16 +176,16 @@ Campo: Developer
 <center>
 <p id="redes" align="center">
 <a href="https://www.linkedin.com/in/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
+  <img src="README.resources/7VZQrXx/lkn.png" height=50px>
 </a>
 <a href="https://www.instagram.com/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/stNqbkw/ig.png" height=50px>
+  <img src="README.resources/ig.png" height=50px>
 </a>
 <a href="https://www.reddit.com/user/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/4T7YM0V/reddit.png" height=50px>
+<img src="README.resources/rddt.png" height=50px>
 </a>
 <a href="https://twitter.com/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/PxrxjS2/twitter.png" height=50px>
+<img src="README.resources/twt.png" height=50px>
 </a>
   </p>
 </center>
