@@ -52,7 +52,7 @@ ___Mis mayores Debilidades:___ <br>
 </p>
 
 -----------------------------------------------------------
-<img align="left" height=80px src="https://i.ibb.co/jrr8vDY/Asistencias.png"/>
+<img align="left" height=80px src="README.resources/r_asis.png"/>
 
 ```
 Ruta: duboisfacu/asistencias
@@ -61,7 +61,7 @@ la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. C
 Lenguaje: Visual Basic
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/BL0pJF8/Polo.png"/>
+<img align="left" height=80px src="README.resources/r_polo.png"/>
 
 ```
 Ruta: duboisfacu/polo-python
@@ -70,7 +70,7 @@ para el curso de Introducción a la Programación con Python provisto por el Pol
 Lenguaje: Python
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/DkN2BsC/Chester.png"/>
+<img align="left" height=80px src="README.resources/r_chester.png"/>
 
 ```
 Ruta: duboisfacu/chester-bot
@@ -90,7 +90,7 @@ Lenguaje: JavaScript & Node.js
 </p>
 
 -----------------------------------------------------------
-<img align="left" height=80px src="https://i.ibb.co/ZS3LRB5/polo.png"/>
+<img align="left" height=80px src="README.resources/i_polo.png"/>
 
 ```
 🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso)
@@ -98,7 +98,7 @@ Lenguaje: JavaScript & Node.js
 ㅤ
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/zfph4WD/mass.png"/>
+<img align="left" height=80px src="README.resources/i_mass.png"/>
 
 ```
 🌟MASSVIAJEROS (en proceso)
@@ -106,7 +106,7 @@ Lenguaje: JavaScript & Node.js
 ㅤ
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/74zt1sk/courseit.png"/>
+<img align="left" height=80px src="README.resources/i_courseit.png"/>
 
 ```
 🌟COURSEIT
@@ -114,7 +114,7 @@ Lenguaje: JavaScript & Node.js
 ✨HTML y CSS
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/3C6hjM4/scrum.png"/>
+<img align="left" height=80px src="README.resources/i_scrum.png"/>
 
 ```
 🌟SCRUMstudy
@@ -122,7 +122,7 @@ Lenguaje: JavaScript & Node.js
 ㅤ
 ```
 
-<img align="left" height=80px src="https://i.ibb.co/hV0cDPS/coursera.png"/>
+<img align="left" height=80px src="README.resources/i_coursera.png"/>
 
 ```
 🌟COURSERA
@@ -142,7 +142,7 @@ Lenguaje: JavaScript & Node.js
 </p>
 
 -----------------------------------------------------------
-<img align="left" height=80px src="https://i.ibb.co/zfph4WD/mass.png"/>
+<img align="left" height=80px src="README.resources/i_mass.png"/>
 
 ```
 MASSVIAJEROS: (Actual)
@@ -153,7 +153,7 @@ Campo: Developer
 
 -----------------------------------------------------------
 <p align="center">
-<a id="mapache" href="https://i.ibb.co/CKd1NtG/mapache.png"> <img height=300px src="https://mapachepress.files.wordpress.com/2011/03/racoon1.gif"/></a>
+<a id="mapache" href="README.resources/w_why.png"> <img height=300px src="README.resources/g_raccoon.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
 <a id="redes"></a> 
