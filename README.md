@@ -93,7 +93,7 @@ Lenguaje: JavaScript & Node.js
 <img align="left" height=80px src="README.resources/i_polo.png"/>
 
 ```
-🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 17/40 clases)
+🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 18/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
 ```
