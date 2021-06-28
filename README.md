@@ -45,6 +45,7 @@ ___Mis mayores Debilidades:___ <br>
 <br>
 
 
+
 -----------------------------------------------------------
 <h2 id="repositorios" font-size="75px" align="center">📁 Repositorios: 📁</h2>
 <p align="center">
@@ -54,30 +55,30 @@ ___Mis mayores Debilidades:___ <br>
 -----------------------------------------------------------
 <img align="left" height=80px src="README.resources/r_asis.png"/>
 
-```
-Ruta: duboisfacu/asistencias
+<pre>
+Ruta: <a href="https://github.com/duboisfacu/asistencias">duboisfacu/asistencias</a>
 Descripción: Asistencias es un sistema de asistecncias desarrollado como proyecto de tesis para 
 la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. Carlos María Carena.
 Lenguaje: Visual Basic
-```
+</pre>
 
 <img align="left" height=80px src="README.resources/r_polo.png"/>
 
-```
-Ruta: duboisfacu/polo-python
+<pre>
+Ruta: <a href="https://github.com/duboisfacu/polo-python">duboisfacu/polo-python</a>
 Descripción: Polo-Python es un repositorio de ejercicios y actividades realizadas 
 para el curso de Introducción a la Programación con Python provisto por el Polo Tecnológico de Mina Clavero.
 Lenguaje: Python
-```
+</pre>
 
 <img align="left" height=80px src="README.resources/r_chester.png"/>
 
-```
-Ruta: duboisfacu/chester-bot
+<pre>
+Ruta: <a href="https://github.com/duboisfacu/chester-bot">duboisfacu/chester-bot</a>
 Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord.
 Lenguaje: JavaScript & Node.js
+</pre>
 
-```
 <a id="capacitaciones"> </a>
 <br>
 
