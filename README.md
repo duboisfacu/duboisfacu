@@ -75,15 +75,17 @@ Lenguaje: Python
 
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/chester-bot">duboisfacu/chester-bot</a>
-Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord.
+Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord. 
 Lenguaje: JavaScript & Node.js
+
 </pre>
 
 <img align="left" height=80px src="README.resources/r_cyc.png"/>
 <pre>
-Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito/a>
+Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito </a>
 Descripción: Cuadradito y Circulito es un juego desarrollado en GameMaker Studio 2.
 Lenguaje: GML
+ 
 </pre>
 
 <a id="capacitaciones"> </a>
