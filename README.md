@@ -58,8 +58,9 @@ ___Mis mayores Debilidades:___ <br>
 </a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/asistencias">duboisfacu/asistencias</a>
-Descripción: Asistencias es un sistema de asistecncias desarrollado como proyecto de tesis para 
-la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. Carlos María Carena.
+Descripción: Asistencias es un sistema de asistecncias desarrollado 
+como proyecto de tesis para la Tecnicatura Superior en 
+Desarrollo de Software en el Instituto Superior Dr. Carlos María Carena.
 <strong>Lenguaje: Visual Basic</strong>
 </pre>
 <a href="https://github.com/duboisfacu/polo-python">
@@ -67,8 +68,9 @@ la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. C
 </a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/polo-python">duboisfacu/polo-python</a>
-Descripción: Polo-Python es un repositorio de ejercicios y actividades realizadas 
-para el curso de Introducción a la Programación con Python provisto por el Polo Tecnológico de Mina Clavero.
+Descripción: Polo-Python es un repositorio de ejercicios y actividades 
+realizadas para el curso de Introducción a la Programación con Python 
+provisto por el Polo Tecnológico de Mina Clavero.
 <strong>Lenguaje: Python</strong>
 </pre>
 <a href="https://github.com/duboisfacu/chester-bot">
@@ -78,7 +80,7 @@ para el curso de Introducción a la Programación con Python provisto por el Pol
 Ruta: <a href="https://github.com/duboisfacu/chester-bot">duboisfacu/chester-bot</a>
 Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord. 
 <strong>Lenguaje: JavaScript & Node.js</strong>
-
+‎
 </pre>
 <a href="https://github.com/duboisfacu/cuadradito-y-circulito">
 <img align="left" height=80px src="README.resources/r_cyc.png"/>
