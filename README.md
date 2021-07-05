@@ -53,34 +53,36 @@ ___Mis mayores Debilidades:___ <br>
 </p>
 
 -----------------------------------------------------------
+<a href="https://github.com/duboisfacu/asistencias">
 <img align="left" height=80px src="README.resources/r_asis.png"/>
-
+</a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/asistencias">duboisfacu/asistencias</a>
 Descripción: Asistencias es un sistema de asistecncias desarrollado como proyecto de tesis para 
 la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. Carlos María Carena.
 <strong>Lenguaje: Visual Basic</strong>
 </pre>
-
+<a href="https://github.com/duboisfacu/polo-python">
 <img align="left" height=80px src="README.resources/r_polo.png"/>
-
+</a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/polo-python">duboisfacu/polo-python</a>
 Descripción: Polo-Python es un repositorio de ejercicios y actividades realizadas 
 para el curso de Introducción a la Programación con Python provisto por el Polo Tecnológico de Mina Clavero.
 <strong>Lenguaje: Python</strong>
 </pre>
-
+<a href="https://github.com/duboisfacu/chester-bot">
 <img align="left" height=80px src="README.resources/r_chester.png"/>
-
+</a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/chester-bot">duboisfacu/chester-bot</a>
 Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord. 
 <strong>Lenguaje: JavaScript & Node.js</strong>
 
 </pre>
-
+<a href="https://github.com/duboisfacu/cuadradito-y-circulito">
 <img align="left" height=80px src="README.resources/r_cyc.png"/>
+</a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito</a>
 Descripción: Cuadradito y Circulito es un juego desarrollado en GameMaker Studio 2.
@@ -89,8 +91,9 @@ Descripción: Cuadradito y Circulito es un juego desarrollado en GameMaker Studi
 </pre>
 
 </pre>
-
+<a href="https://github.com/duboisfacu/avengers-game">
 <img align="left" height=80px src="README.resources/r_avengers.png"/>
+</a>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/avengers-game">duboisfacu/avengers-game</a>
 Descripción: AvergersGame es un juego desarrollado en VB.NET en segundo 
