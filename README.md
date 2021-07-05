@@ -115,15 +115,19 @@ año de la tecnicatura superior en desarrollo de software.
 </p>
 
 -----------------------------------------------------------
+
+<a href="https://minaclavero.polotecnologico.ar/">
 <img align="left" height=80px src="README.resources/i_polo.png"/>
+</a>
 
 ```
 🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 20/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
 ```
-
+<a href="https://incluit.com/">
 <img align="left" height=80px src="README.resources/i_incluit.png"/>
+</a>
 
 <pre>
 🌟INCLUIT (en proceso 4/12 clases)
@@ -131,41 +135,51 @@ año de la tecnicatura superior en desarrollo de software.
 ㅤ
 </pre>
 
+<a href="https://massviajeros.com/">
 <img align="left" height=80px src="README.resources/i_mass.png"/>
+</a>
 
 <pre>
 🌟MASSVIAJEROS (en proceso 2/3 meses)
 ✨Desarrollador Full Stack 
 ㅤ
 </pre>
-
+ 
+<a href="https://courseit.io/">
 <img align="left" height=80px src="README.resources/i_courseit.png"/>
-
+</a>
+ 
 <pre>
 🌟COURSEIT
 ✨Introducción al Desarrollo Web <a href="README.resources/certificados/Courseit - Introducción al Desarrollo Web.pdf">(certificado)</a>
 ✨HTML y CSS <a href="README.resources/certificados/Courseit - HTML y CSS.pdf">(certificado)</a>
 </pre>
-
+ 
+<a href="https://www.scrumstudy.com/">
 <img align="left" height=80px src="README.resources/i_scrum.png"/>
+</a>
 
 <pre>
 🌟SCRUMstudy
 ✨Scrum Fundamentals Certified (SFC™) <a href="README.resources/certificados/SCRUMstudy - Scrum Fundamentals Cerified.pdf">(certificado)</a>
 
 </pre>
-
+ 
+<a href="https://www.coursera.org/">
 <img align="left" height=80px src="README.resources/i_coursera.png"/>
-
+</a>
+ 
 <pre>
 🌟COURSERA
 ✨Getting Started with Python <a href="README.resources/certificados/Coursera - Phyton From Everybody.pdf">(certificado)</a>
 ✨Using Python to Access Web Data <a href="README.resources/certificados/Coursera - Phyton From Everybody 3.pdf">(certificado)</a>
 ✨Python Data Structures <a href="README.resources/certificados/Coursera - Phyton From Everybody 2.pdf">(certificado)</a>
 </pre>
-
+ 
+<a href="https://ed.team/">
 <img align="left" height=80px src="README.resources/i_edteam.png"/>
-
+</a>
+ 
 <pre>
 🌟EDTEAM
 ✨GIT desde cero <a href="README.resources/certificados/Edteam - GIT desde cero .pdf">(certificado)</a>
