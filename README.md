@@ -59,7 +59,7 @@ ___Mis mayores Debilidades:___ <br>
 Ruta: <a href="https://github.com/duboisfacu/asistencias">duboisfacu/asistencias</a>
 Descripción: Asistencias es un sistema de asistecncias desarrollado como proyecto de tesis para 
 la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Dr. Carlos María Carena.
-Lenguaje: Visual Basic
+<strong>Lenguaje: Visual Basic</strong>
 </pre>
 
 <img align="left" height=80px src="README.resources/r_polo.png"/>
@@ -68,7 +68,7 @@ Lenguaje: Visual Basic
 Ruta: <a href="https://github.com/duboisfacu/polo-python">duboisfacu/polo-python</a>
 Descripción: Polo-Python es un repositorio de ejercicios y actividades realizadas 
 para el curso de Introducción a la Programación con Python provisto por el Polo Tecnológico de Mina Clavero.
-Lenguaje: Python
+<strong>Lenguaje: Python</strong>
 </pre>
 
 <img align="left" height=80px src="README.resources/r_chester.png"/>
@@ -76,7 +76,7 @@ Lenguaje: Python
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/chester-bot">duboisfacu/chester-bot</a>
 Descripción: Chester-Bot es un bot multifuncional para la plataforma Discord. 
-Lenguaje: JavaScript & Node.js
+<strong>Lenguaje: JavaScript & Node.js</strong>
 
 </pre>
 
@@ -84,8 +84,8 @@ Lenguaje: JavaScript & Node.js
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito</a>
 Descripción: Cuadradito y Circulito es un juego desarrollado en GameMaker Studio 2.
-Lenguaje: GML
- 
+<strong>Lenguaje: GML</strong>
+‎
 </pre>
 
 </pre>
@@ -95,7 +95,7 @@ Lenguaje: GML
 Ruta: <a href="https://github.com/duboisfacu/avengers-game">duboisfacu/avengers-game</a>
 Descripción: AvergersGame es un juego desarrollado en VB.NET en segundo 
 año de la tecnicatura superior en desarrollo de software.
-Lenguaje: VB.NET
+<strong>Lenguaje: VB.NET</strong>
 </pre>
 
 <a id="capacitaciones"> </a>
