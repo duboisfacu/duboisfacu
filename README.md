@@ -82,10 +82,20 @@ Lenguaje: JavaScript & Node.js
 
 <img align="left" height=80px src="README.resources/r_cyc.png"/>
 <pre>
-Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito </a>
+Ruta: <a href="https://github.com/duboisfacu/cuadradito-y-circulito">duboisfacu/cuadradito-y-circulito</a>
 Descripción: Cuadradito y Circulito es un juego desarrollado en GameMaker Studio 2.
 Lenguaje: GML
  
+</pre>
+
+</pre>
+
+<img align="left" height=80px src="README.resources/avengersgame.png"/>
+<pre>
+Ruta: <a href="https://github.com/duboisfacu/avengers-game">duboisfacu/avengers-game</a>
+Descripción: AvergersGame es un juego desarrollado en VB.NET en segundo 
+año de la tecnicatura superior en desarrollo de software.
+Lenguaje: VB.NET
 </pre>
 
 <a id="capacitaciones"> </a>
