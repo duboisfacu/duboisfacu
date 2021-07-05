@@ -120,11 +120,11 @@ año de la tecnicatura superior en desarrollo de software.
 <img align="left" height=80px src="README.resources/i_polo.png"/>
 </a>
 
-```
+<pre>
 🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 20/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
-```
+</pre>
 <a href="https://incluit.com/">
 <img align="left" height=80px src="README.resources/i_incluit.png"/>
 </a>
@@ -199,12 +199,12 @@ año de la tecnicatura superior en desarrollo de software.
 -----------------------------------------------------------
 <img align="left" height=80px src="README.resources/i_mass.png"/>
 
-```
+<pre>
 MASSVIAJEROS: (Actual)
 Empresa: Massviajeros 
 Campo: Developer 
 
-```
+</pre>
 
 -----------------------------------------------------------
 <p align="center">
