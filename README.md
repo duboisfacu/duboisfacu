@@ -116,51 +116,59 @@ año de la tecnicatura superior en desarrollo de software.
 <img align="left" height=80px src="README.resources/i_polo.png"/>
 
 ```
-🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 18/40 clases)
+🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 20/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
 ```
 
 <img align="left" height=80px src="README.resources/i_incluit.png"/>
 
-```
-🌟INCLUIT (en proceso 1/12 clases)
+<pre>
+🌟INCLUIT (en proceso 4/12 clases)
 ✨Testing de software 
 ㅤ
-```
+</pre>
 
 <img align="left" height=80px src="README.resources/i_mass.png"/>
 
-```
+<pre>
 🌟MASSVIAJEROS (en proceso 2/3 meses)
 ✨Desarrollador Full Stack 
 ㅤ
-```
+</pre>
 
 <img align="left" height=80px src="README.resources/i_courseit.png"/>
 
-```
+<pre>
 🌟COURSEIT
-✨Introducción al Desarrollo Web
-✨HTML y CSS
-```
+✨Introducción al Desarrollo Web <a href="README.resources/certificados/Courseit - Introducción al Desarrollo Web.pdf">(certificado)</a>
+✨HTML y CSS <a href="README.resources/certificados/Courseit - HTML y CSS.pdf">(certificado)</a>
+</pre>
 
 <img align="left" height=80px src="README.resources/i_scrum.png"/>
 
-```
+<pre>
 🌟SCRUMstudy
-✨Scrum Fundamentals Certified (SFC™)
-ㅤ
-```
+✨Scrum Fundamentals Certified (SFC™) <a href="README.resources/certificados/SCRUMstudy - Scrum Fundamentals Cerified.pdf">(certificado)</a>
+
+</pre>
 
 <img align="left" height=80px src="README.resources/i_coursera.png"/>
 
-```
+<pre>
 🌟COURSERA
-✨Getting Started with Python
-✨Using Python to Access Web Data
-✨Python Data Structures
-```
+✨Getting Started with Python <a href="README.resources/certificados/Coursera - Phyton From Everybody.pdf">(certificado)</a>
+✨Using Python to Access Web Data <a href="README.resources/certificados/Coursera - Phyton From Everybody 3.pdf">(certificado)</a>
+✨Python Data Structures <a href="README.resources/certificados/Coursera - Phyton From Everybody 2.pdf">(certificado)</a>
+</pre>
+
+<img align="left" height=80px src="README.resources/i_edteam.png"/>
+
+<pre>
+🌟EDTEAM
+✨GIT desde cero <a href="README.resources/certificados/Edteam - GIT desde cero .pdf">(certificado)</a>
+✨Python desde cero <a href="README.resources/certificados/Edteam - Python desde cero.pdf">(certificado)</a>
+</pre>
 
 <a id="trabajos"> </a>
 <br>
