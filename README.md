@@ -202,7 +202,7 @@ año de la tecnicatura superior en desarrollo de software.
 <pre>
 MASSVIAJEROS: (Actual)
 Empresa: Massviajeros 
-Campo: Developer 
+Campo: FrontEnd Developer
 
 </pre>
 
