@@ -90,7 +90,7 @@ Lenguaje: GML
 
 </pre>
 
-<img align="left" height=80px src="README.resources/r_avenger.png"/>
+<img align="left" height=80px src="README.resources/r_avengers.png"/>
 <pre>
 Ruta: <a href="https://github.com/duboisfacu/avengers-game">duboisfacu/avengers-game</a>
 Descripción: AvergersGame es un juego desarrollado en VB.NET en segundo 
