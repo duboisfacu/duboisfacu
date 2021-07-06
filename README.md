@@ -7,9 +7,11 @@
 <p align="center">
 <a href="#yo"> <img height=30px src="README.resources/h_about.png"/></a>
 <a href="#repositorios"> <img height=30px src="README.resources/h_repositorios.png"/></a>
+<a href="#habilidades"> <img height=30px src="README.resources/h_habilidades.png"/></a>
 <a href="#capacitaciones"> <img height=30px src="README.resources/h_capacitaciones.png"/></a>
 <a href="#trabajos"> <img height=30px src="README.resources/h_experiencia.png"/></a>
 <a href="#redes"> <img height=30px src="README.resources/h_redes.png"/></a>
+
 </p>
 
 <a id="yo"> </a>
@@ -42,7 +44,6 @@ ___Mis mayores Debilidades:___ <br>
 
 
 <a id="repositorios"> </a>
-<br>
 
 
 
@@ -103,11 +104,34 @@ año de la tecnicatura superior en desarrollo de software.
 <strong>Lenguaje: VB.NET</strong>
 </pre>
 
-<a id="capacitaciones"> </a>
-<br>
+<a id="habilidads"> </a>
+
+
 
 
 -----------------------------------------------------------
+<h2 id="habilidades" font-size="75px" align="center">🧰 Habilidades: 🧰</h2>
+<p align="center">
+<a href="#habilidades"> <img height=30px src="README.resources/s_arrow.png"/></a>
+</p>
+
+-----------------------------------------------------------
+
+<p align="center">
+<img height=100px src="README.resources/sk_git.png"/>
+<img height=5px src="README.resources/transparent.png"/>
+<img height=100px src="README.resources/sk_html.png"/>
+<img height=5px src="README.resources/transparent.png"/>
+<img height=100px src="README.resources/sk_css.png"/>
+<img height=5px src="README.resources/transparent.png"/>
+<img height=100px src="README.resources/sk_py.png"/>
+<img height=5px src="README.resources/transparent.png"/>
+<img height=100px src="README.resources/sk_vb.png"/>
+</p>
+<a id="capacitaciones"> </a>
+
+-----------------------------------------------------------
+
 <h2 font-size="75px" align="center">📚 Capacitaciones: 📚</h2>
 
 <p align="center">
@@ -187,7 +211,6 @@ año de la tecnicatura superior en desarrollo de software.
 </pre>
 
 <a id="trabajos"> </a>
-<br>
 
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
@@ -221,29 +244,30 @@ Campo: FrontEnd Developer
 -----------------------------------------------------------
 
 
-<h2 align="center"> Mis Redes </h2>
+<h2 align="center">📱 Mis Redes 📱</h2>
  
- -----------------------------------------------------------
- 
-<p align="center">
+ <p align="center">
 <a  href="#redes"> <img height=30px src="README.resources/s_arrow.png"/></a>
 </p>
+
+ -----------------------------------------------------------
+ 
+
 <center>
 <p id="redes" align="center">
 <a href="https://www.linkedin.com/in/duboisfacu/" target="_blank">
-  <img src="README.resources/lkn.png" height=50px>
+  <img src="README.resources/lkn.png" height=60px>
 </a>
 <a href="https://www.instagram.com/duboisfacu/" target="_blank">
-  <img src="README.resources/ig.png" height=50px>
+  <img src="README.resources/ig.png" height=60px>
 </a>
 <a href="https://www.reddit.com/user/duboisfacu" target="_blank">
-<img src="README.resources/rddt.png" height=50px>
+<img src="README.resources/rddt.png" height=60px>
 </a>
 <a href="https://twitter.com/duboisfacu" target="_blank">
-<img src="README.resources/twt.png" height=50px>
+<img src="README.resources/twt.png" height=60px>
 </a>
   </p>
 </center>
-
 
  -----------------------------------------------------------
