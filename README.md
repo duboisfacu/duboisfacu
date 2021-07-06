@@ -44,7 +44,7 @@ ___Mis mayores Debilidades:___ <br>
 
 
 <a id="repositorios"> </a>
-
+<br>
 
 
 -----------------------------------------------------------
@@ -105,7 +105,7 @@ año de la tecnicatura superior en desarrollo de software.
 </pre>
 
 <a id="habilidads"> </a>
-
+<br>
 
 
 
@@ -128,7 +128,9 @@ año de la tecnicatura superior en desarrollo de software.
 <img height=5px src="README.resources/transparent.png"/>
 <img height=100px src="README.resources/sk_vb.png"/>
 </p>
+
 <a id="capacitaciones"> </a>
+<br>
 
 -----------------------------------------------------------
 
@@ -211,6 +213,7 @@ año de la tecnicatura superior en desarrollo de software.
 </pre>
 
 <a id="trabajos"> </a>
+<br>
 
 -----------------------------------------------------------
 <h2 font-size="75px" align="center">👨‍💻 Experiencia Laboral 👨‍💻</h2>
@@ -234,11 +237,10 @@ Campo: FrontEnd Developer
 <a id="mapache" href="https://user-images.githubusercontent.com/66006741/123548950-5bea7100-d73d-11eb-8275-2b3dfb192c94.png"> <img height=300px src="README.resources/g_raccoon.gif"/></a>
 <br>
 ¡Gracias por bajar hasta acá!
-<a id="redes"></a> 
 </p>
  
-
-
+<a id="redes"></a> 
+<br>
 
 
 -----------------------------------------------------------
