@@ -147,7 +147,7 @@ año de la tecnicatura superior en desarrollo de software.
 </a>
 
 <pre>
-🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 20/40 clases)
+🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 21/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
 </pre>
@@ -156,7 +156,7 @@ año de la tecnicatura superior en desarrollo de software.
 </a>
 
 <pre>
-🌟INCLUIT (en proceso 4/12 clases)
+🌟INCLUIT (en proceso 5/12 clases)
 ✨Testing de software 
 ㅤ
 </pre>
