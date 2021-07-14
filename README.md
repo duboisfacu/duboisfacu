@@ -257,7 +257,7 @@ Campo: FrontEnd Developer
 -----------------------------------------------------------
 
 
-<h2 align="center">📱 Mis Redes 📱</h2>
+<h2 align="center">📱 Redes 📱</h2>
  
  <p align="center">
 <a  href="#redes"> <img height=30px src="README.resources/s_arrow.png"/></a>
