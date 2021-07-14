@@ -79,7 +79,7 @@ provisto por el Polo Tecnológico de Mina Clavero.
 <img align="left" height=80px src="README.resources/r_mir_js.png"/>
 </a>
 <pre>
-Ruta: <a href="https://github.com/duboisfacu/makeitreal-j">duboisfacu/makeitreal-js</a>
+Ruta: <a href="https://github.com/duboisfacu/makeitreal-js">duboisfacu/makeitreal-js</a>
 Descripción: MakeItReal-JS es un repositorio de ejercicios realizadas 
 para el curso de Introducción a JavaScript provisto por Make It Real.
 <strong>Lenguaje: Javascript</strong>
