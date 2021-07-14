@@ -74,6 +74,17 @@ realizadas para el curso de Introducción a la Programación con Python
 provisto por el Polo Tecnológico de Mina Clavero.
 <strong>Lenguaje: Python</strong>
 </pre>
+
+<a href="https://github.com/duboisfacu/makeitreal-js">
+<img align="left" height=80px src="README.resources/r_mir_js.png"/>
+</a>
+<pre>
+Ruta: <a href="https://github.com/duboisfacu/polo-python">duboisfacu/makeitreal-js</a>
+Descripción: MakeItReal-JS es un repositorio de ejercicios realizadas 
+para el curso de Introducción a JavaScript provisto por Make It Real.
+<strong>Lenguaje: Javascript</strong>
+</pre>
+
 <a href="https://github.com/duboisfacu/chester-bot">
 <img align="left" height=80px src="README.resources/r_chester.png"/>
 </a>
