@@ -161,16 +161,6 @@ año de la tecnicatura superior en desarrollo de software.
 🌟POLO TECNOLÓGICO MINA CLAVERO (en proceso 21/40 clases)
 ✨Introducción a la Programación (Python) 
 ㅤ
-</pre>
-<a href="https://incluit.com/">
-<img align="left" height=80px src="README.resources/i_incluit.png"/>
-</a>
-
-<pre>
-🌟INCLUIT (en proceso 5/12 clases)
-✨Testing de software 
-ㅤ
-</pre>
 
 <a href="https://massviajeros.com/">
 <img align="left" height=80px src="README.resources/i_mass.png"/>
