@@ -228,8 +228,8 @@ año de la tecnicatura superior en desarrollo de software.
 <img align="left" height=80px src="README.resources/i_mass.png"/>
 
 <pre>
-(abr 2021 – ago 2021)
 Empresa: Massviajeros 
+Fecha: abr 2021 – ago 2021
 Campo: FrontEnd Developer
 
 </pre>
