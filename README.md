@@ -34,7 +34,7 @@ ___Pasiones:___ me apasiona aprender mucho de algo, también todo lo relacionado
 ___Mis mayores Fortalezas:___ <br>
 - Hasta que no termino algo no paro, por lo tanto trato de buscarle siempre la vuelta a todo con tal de terminarlo.
 - Me gusta mucho aprender.
-- Me encanta el área del diseño, entonces siempre busco una estética agradable en mis trabajos.
+- Me encanta el área del diseño, debido a esto, siempre busco una estética agradable en mis trabajos.
 - Me adapto a las diferentes metodologías de trabajo.
 - Tengo los principios del cooperativismo a flor de piel. 
 
