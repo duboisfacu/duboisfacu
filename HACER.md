@@ -1,7 +1,5 @@
-1) añadir y pushear todo
+## Repositorios:
 
-2) ng build --prod --base-href https://duboisfacu.github.io/portfolio/ --deploy-url=https://duboisfacu.github.io/portfolio/
-
-3) "../../../assets" > "assets"
-
-4)añadir y pushear todo 
+- Interfaz de cliente: https://github.com/duboisfacu/todoit-client ✨<br>
+- Interfaz de delivery: https://github.com/duboisfacu/todoit-delivery ✨<br>
+- Interfaz de administrador: https://github.com/duboisfacu/todoit-admin ✨
