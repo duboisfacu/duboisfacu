@@ -17,4 +17,4 @@
   <img src="README.resources/habilidades/bs.png"/>
 </p>
 
-&nbsp;<img  src="https://pa1.narvii.com/6821/13e12699db0e7fd9b02c5bb3b264b3ea442a6b7a_hq.gif"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://pa1.narvii.com/6821/13e12699db0e7fd9b02c5bb3b264b3ea442a6b7a_hq.gif"/>
