@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"> <img src="README.resources/banner.png"/></a>
+<a href="#"> <img src="README.resources/banner2.png"/></a>
 </p>
 
 ---
