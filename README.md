@@ -14,6 +14,7 @@
   <img src="README.resources/habilidades/ts.png"/>
   <img src="README.resources/habilidades/ng.png"/>
   <img src="README.resources/habilidades/react.png"/>
+  <img src="README.resources/habilidades/png.png"/>
   <img src="README.resources/habilidades/bs.png"/>
 </p>
 
