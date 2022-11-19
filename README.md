@@ -4,7 +4,7 @@
 
 ---
 
-<h2  font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
+<h2  font-size="75px" align="center">🦝 Un poco sobre mi: 🦝</h2>
 
 <p align="center">
   <img src="README.resources/habilidades/html.png"/>
