@@ -7,9 +7,9 @@
 <h2  font-size="75px" align="center">🦝 Acerca de mi: 🦝</h2>
 
 <p align="center">
+  <img src="README.resources/habilidades/html.png"/>
   <img src="README.resources/habilidades/css.png"/>
   <img src="README.resources/habilidades/sass.png"/>
-  <img src="README.resources/habilidades/html.png"/>
   <img src="README.resources/habilidades/js.png"/>
   <img src="README.resources/habilidades/ts.png"/>
   <img src="README.resources/habilidades/ng.png"/>
